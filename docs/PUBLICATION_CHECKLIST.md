@@ -1,0 +1,7 @@
+- [x] Source case framing documented
+- [x] DMAIC case study
+- [x] Interview one-pager
+- [x] Professional connection stated without employer data
+- [ ] Export final case visuals
+- [ ] Recreate sanitized process map/Pareto/SPC figures for web
+- [ ] Publish repository

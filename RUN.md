@@ -6,4 +6,4 @@ This is currently a documented case-study repository. Use a public/synthetic rec
 Python 3.11 is the conservative portfolio default unless an original notebook requires otherwise.
 
 ## Interpretation
-Read provenance and limitations before treating later refactoring as original coursework.
+Read provenance and limitation documentation before treating refactored work as original coursework.

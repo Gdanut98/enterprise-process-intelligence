@@ -1,0 +1,12 @@
+name: portfolio-project
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - pip
+  - pip:
+      - pandas>=2.0
+      - numpy>=1.24
+      - scipy>=1.10
+      - statsmodels>=0.14
+      - matplotlib>=3.7
