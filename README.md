@@ -29,3 +29,12 @@ The XYZtech case is an academic case study. Portfolio materials preserve the cou
 
 ## Professional connection
 The project complements professional healthcare and supply-chain analytics experience by showing a formal process-improvement framework for turning operational data into measurable interventions, controls, and stakeholder recommendations.
+
+
+---
+
+## Portfolio navigation
+- [George Danut — Analytics & BI Portfolio](https://gdanut98.github.io/GeorgeDanut.github.io/)
+- [GitHub profile](https://github.com/Gdanut98)
+
+**Reviewer path:** Start with this README, then inspect the repository's case-study/results documentation and executable SQL or Python evidence. Academic foundations and later portfolio extensions are identified separately where applicable.
